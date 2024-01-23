@@ -1,4 +1,4 @@
-# Student Examination System
+# ONLINE EXAMINETION SYSTEM
 <br><br>
 ## Overview
 This repository contains the source code for a Student Examination System,<br>
